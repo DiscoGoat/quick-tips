@@ -2,7 +2,7 @@
 //  Quick_TipsTests.swift
 //  Quick TipsTests
 //
-//  Created by DaiDai Kwan on 9/22/16.
+//  Created by Gavan Kwan on 9/22/16.
 //
 //
 
